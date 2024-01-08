@@ -1,0 +1,73 @@
+- id: 0
+  quiz_name: Section A
+  quiz_length: 5
+  questions:
+  - id: 0
+    title: "1. What is the capital of France?"
+    options:
+      - "Berlin"
+      - "Madrid"
+      - "Paris"
+      - "Rome"
+    answer: 2
+  - id: 1
+    title: "2. Which planet is known as the Red Planet?"
+    options:
+      - "Venus"
+      - "Mars"
+      - "Jupiter"
+      - "Saturn"
+    answer: 1
+  - id: 2
+    title: "3. What is the largest mammal on Earth?"
+    options:
+      - "Elephant"
+      - "Blue Whale"
+      - "Giraffe"
+      - "Dolphin"
+    answer: 1
+  - id: 3
+    title: "4. Who wrote the play 'Romeo and Juliet'?"
+    options:
+      - "William Shakespeare"
+      - "Jane Austen"
+      - "Charles Dickens"
+      - "Mark Twain"
+    answer: 0
+  - id: 4
+    title: "5. What is the chemical symbol for gold?"
+    options:
+      - "Au"
+      - "Ag"
+      - "Fe"
+      - "Cu"
+    answer: 0
+
+- id: 1
+  quiz_name: Section B
+  quiz_length: 3
+  questions:
+  - id: 0
+    title: "1. In which year did World War II end?"
+    options:
+      - "1945"
+      - "1918"
+      - "1939"
+      - "1941"
+    answer: 0
+  - id: 1
+    title: "2. What is the capital of Japan?"
+    options:
+      - "Seoul"
+      - "Tokyo"
+      - "Beijing"
+      - "Bangkok"
+    answer: 1
+  - id: 2
+  title: "3. Who is known as the 'Father of Computer Science'?"
+  options:
+    - "Alan Turing"
+    - "Bill Gates"
+    - "Steve Jobs"
+    - "Mark Zuckerberg"
+  answer: 0
