@@ -44,7 +44,7 @@ If you're here only with the interest for the Go code for the bot, feel free to 
 
 2. **Terraform version >=0.14.0**: You can download Terraform from [the official Terraform website](https://www.terraform.io/).
 
-3. **AWS VPC and Redis Elasticache Cluster**: Create a suitable subnet with connectivity to a Redis (v7) endpoint, and internet connection through NAT (recommended) or IGW.
+3. **AWS VPC and Redis Elasticache Cluster**: Create a suitable subnet with connectivity to a Redis (v7) endpoint, and route tables enabling internet connection through NAT (recommended) or IGW.
 
 Follow these steps to set up your own scalable Telegram quiz bots:
 
